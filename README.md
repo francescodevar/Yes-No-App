@@ -1,16 +1,7 @@
 # yes_no_chat
 
-A new Flutter project.
+This chat is mode with yes no Api, you need to end your phrase with "?" otherwise you never have back and answer
+you will recive a yes or no answer with a gif
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/francescodevar/Yes-No-App/assets/67846639/29ace144-6fda-43ec-b81f-37a6e9455e96" width="300" height="600">
